@@ -9,9 +9,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.List;
 
-/**
- * Created by user on 04.07.2017.
- */
 public class GooglePage {
     static WebDriver driver = null;
     @FindBy(name = "q")
